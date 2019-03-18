@@ -1,0 +1,94 @@
+@media (max-width: 576px) {
+    .menu-item li{
+        width: 100%;
+
+    }
+    .slide-down{
+        position: relative;
+        margin-top: 500px;
+    }
+
+    .scu-text{
+        margin-top: 80px;
+    }
+    .margin-college{
+        margin-top: 100px;
+    }
+
+
+    .footer-down{
+        padding-top: -500px;
+     }
+
+    .port-image{
+        margin-right: 100px;
+    }
+
+    .port-text{
+        margin-left: -300px;
+    }
+
+    .container{
+        width: 50%;
+    }
+
+    .contact-photo{
+        margin-left: -800px;
+    }
+
+
+    .contact-photo2{
+        margin-left: -430px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+    .scu-text{
+        margin-top: 80px;
+    }
+    .margin-college{
+        margin-top: 100px;
+    }
+
+    .contact-photo{
+        margin-left: -800px;
+    }
+
+
+    .contact-photo2{
+        margin-left: -430px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+    .scu-text{
+        margin-top: 80px;
+    }
+    .margin-college{
+        margin-top: 100px;
+    }
+
+    .contact-photo{
+        margin-left: -800px;
+    }
+
+
+    .contact-photo2{
+        margin-left: -430px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .scu-text{
+
+    }
+    .margin-college{
+
+    }
+
+
+}
